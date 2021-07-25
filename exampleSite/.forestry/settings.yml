@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url: 
+webhook_url: https://api.netlify.com/build_hooks/60fcd1331e03a2f26ef3d517
 sections:
 - type: heading
   label: Blog Post
